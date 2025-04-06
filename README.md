@@ -17,7 +17,7 @@ A technology evangelist and ardent professional with over 10+ years of prodigiou
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Anaconda" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg"/>
-<img align="left" alt="Swagger" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg/>
+<img align="left" alt="Swagger" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg"/>
 
 <br><br/>
 
@@ -26,7 +26,7 @@ A technology evangelist and ardent professional with over 10+ years of prodigiou
 <img align="left" alt="Nginx" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Azure" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
-<img align="left" alt="Axio" width="40px" style="padding-right:10px;" src="[https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.sv](https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg)g" />
+<img align="left" alt="Axio" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" />
 <br><br/>
 
 ---
